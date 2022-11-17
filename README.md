@@ -1,14 +1,17 @@
-<h1 align="center"> Hi I'm Rochel Angelo </h1>
+<h1 align="center"> 👋Hi I'm Rochel Angelo </h1>
 <h2 align="center"> A dev in constant learning </h2>
 
 ![](https://komarev.com/ghpvc/?username=rochelangelo)
 
-- 👀 I’m interested in company in Brazil
-- 🌱 I’m currently learning JAVA, C#, PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3>I currently work for a company in Brazil, but always studying in search of improvements and discoveries in the technologies that I already have skills, and also new skills<h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rochelangelo=anuraghazra&show_icons=true)
+- Skills🪨
+  - ✅**Computer Technician** by IFPE - Garanhuns
+  - ▶**Computer Science** by UFAPE - Garanhuns
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rochelangelo/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochelangelo&show_icons=true)
 <!---
 rochelangelo/rochelangelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
