@@ -6,7 +6,7 @@
 <h3>I currently work for a company in Brazil, but always studying in search of improvements and discoveries in the technologies that I already have skills, and also new skills<h3>
 
 - Skills🪨
-  - ✅**Computer Technician** by IFPE - Garanhuns
+  - ✅__Computer Technician__ by IFPE - Garanhuns
   - ▶**Computer Science** by UFAPE - Garanhuns
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rochelangelo/github-readme-stats)
