@@ -38,19 +38,24 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   </P> 
- 
-<div>
-<a href="https://github.com/rochelangelo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochelangelo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rochelangelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+    
   
+  </br></br>
 <h4 align="left">Contact:</h4>
   <div>
     <a href="https://instagram.com/rochelangelo.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:jrochelangelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rochelangelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+ 
+  
+  </br>
+<div>
+<a href="https://github.com/rochelangelo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochelangelo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rochelangelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 <!---
 rochelangelo/rochelangelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
