@@ -55,6 +55,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochelangelo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rochelangelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<p align="left"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rochelangelo"/></a></p>
 
 
 <!---
