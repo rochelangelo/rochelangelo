@@ -50,14 +50,15 @@
  
   
   </br>
-<div>
-<a href="https://github.com/rochelangelo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochelangelo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rochelangelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<p align="left"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rochelangelo"/></a></p>
+  
+<p align="center">
+  <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api?username=rochelangelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="rochelangelo"/>
+  <img align="center" width="35%" src="https://streak-stats.demolab.com?user=rochelangelo" alt="rochelangelo"/>
+  <img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochelangelo&layout=compact&langs_count=7&theme=dracula" alt="rochelangelo"/>
+</p>
 
-<br>
+
+</br>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desenvolvedorindie" alt="rochelangelo" /></a> </p>
