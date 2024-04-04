@@ -57,6 +57,11 @@
 </div>
 <p align="left"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rochelangelo"/></a></p>
 
+<br>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desenvolvedorindie" alt="rochelangelo" /></a> </p>
+
 
 <!---
 rochelangelo/rochelangelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
